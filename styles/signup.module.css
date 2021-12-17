@@ -1,0 +1,21 @@
+.inputFirstname {
+margin-top: 64px;
+margin-left: 400px;
+width: 600px;
+height: 56px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+border-radius: 8px;
+opacity: 1;
+  }
+
+  .inputLastName {
+    margin-top: 40px;
+    margin-left: 400px;
+    width: 600px;
+    height: 56px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 8px;
+    opacity: 1;
+      }
